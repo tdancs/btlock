@@ -1,0 +1,7 @@
+/root/projects/btlock/build/CMakeFiles/install.dir
+/root/projects/btlock/build/CMakeFiles/list_install_components.dir
+/root/projects/btlock/build/CMakeFiles/rebuild_cache.dir
+/root/projects/btlock/build/CMakeFiles/install/strip.dir
+/root/projects/btlock/build/CMakeFiles/install/local.dir
+/root/projects/btlock/build/CMakeFiles/btlock.dir
+/root/projects/btlock/build/CMakeFiles/edit_cache.dir

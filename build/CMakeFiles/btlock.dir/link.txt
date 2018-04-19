@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/btlock.dir/main.cpp.o  -o btlock -rdynamic -lbluetooth 
